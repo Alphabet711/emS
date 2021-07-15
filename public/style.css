@@ -4,8 +4,8 @@
 }
 h1 {
     text-align: center;
-    background-color: rgb(45, 87, 155);
-    color: #fff;
+    background-color: rgb(57, 100, 168);
+    color: rgb(192, 36, 36);
     font-size: 5vw;
 }
 form {
@@ -17,7 +17,7 @@ form {
 input,
 button
 {
-    border:1px solid #ccc;
+    border:1px solid rgb(0, 0, 0);
     font-size:5vw;
     height:10vw;
     padding:0 5vw;
