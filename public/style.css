@@ -6,7 +6,7 @@ h1 {
     text-align: center;
     background-color: rgb(216, 176, 117);
     color: rgb(0, 0, 0);
-    font-size: 3vw;
+    font-size: 5vw;
 }
 form {
     display: flex;
@@ -30,16 +30,16 @@ button
 }
 input
 {
-    border-radius:4vw 0 0 4vw;
+    border-radius:5vw 0 0 5vw;
 }
 button
 {
-    border-radius:0 4vw 4vw 0;
+    border-radius:0 5vw 5vw 0;
     background: rgb(216, 176, 117);
 }
 #chats
 {
-    font-size:4vw;
+    font-size:5vw;
 }
 #chats dt
 {
