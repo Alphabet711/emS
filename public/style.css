@@ -21,11 +21,11 @@ body {
 button
 {
     border:1px solid rgb(216, 176, 117);
-    font-size:3vw;
+    font-size:5vw;
     height:10vw;
-    padding:0 8vw;
+    padding:0 5vw;
     outline: 0;
-    line-height:6vw;
+    line-height:5vw;
     margin:0;
 }
 input
