@@ -4,8 +4,8 @@
 }
 h1 {
     text-align: center;
-    background-color: rgb(216, 176, 117);
-    color: rgb(0, 0, 0);
+    background-color: rgb(45, 87, 155);
+    color: #fff;
     font-size: 5vw;
 }
 form {
@@ -15,12 +15,9 @@ form {
     display: none;
 }
 input,
-body {
-    background-color: rgb(208, 241, 253);
-  }
 button
 {
-    border:1px solid rgb(216, 176, 117);
+    border:1px solid #ccc;
     font-size:5vw;
     height:10vw;
     padding:0 5vw;
@@ -35,7 +32,7 @@ input
 button
 {
     border-radius:0 5vw 5vw 0;
-    background: rgb(216, 176, 117);
+    background: #ccc;
 }
 #chats
 {
@@ -44,7 +41,7 @@ button
 #chats dt
 {
     margin: 2vw 0;
-    border:1px solid rgb(255, 255, 255);
+    border:1px solid #333;
     border-radius:3vw;
     padding:1vw 3vw;
     display: inline-block;
@@ -53,7 +50,7 @@ button
 {
     margin-left: 8vw;
     position: relative;
-    background-color:rgb(216, 176, 117);
+    background-color:#ccc;
     border-radius:3vw;
     padding:1vw 3vw;
 }
@@ -66,7 +63,7 @@ button
     left: -6vw;
     margin-top: -7vw;
     border: 3vw solid transparent;
-    border-right: 8vw solid rgba(216, 176, 117, 0.733);
+    border-right: 8vw solid #ccc;
     transform: rotate(40deg);
     z-index: -1;
 }
