@@ -54,7 +54,7 @@ button
 {
     margin-left: 8vw;
     position: relative;
-    background-color:#ccc;
+    background-color:rgb(226, 180, 111);
     border-radius:3vw;
     padding:1vw 3vw;
 }
@@ -67,7 +67,7 @@ button
     left: -6vw;
     margin-top: -7vw;
     border: 3vw solid transparent;
-    border-right: 8vw solid #ccc;
+    border-right: 8vw solid rgb(226, 180, 111);
     transform: rotate(40deg);
     z-index: -1;
 }
