@@ -36,7 +36,7 @@ input
 button
 {
     border-radius:0 5vw 5vw 0;
-    background: #ccc;
+    background: rgb(226, 180, 111);
 }
 #chats
 {
